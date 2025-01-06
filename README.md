@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @100rchak
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning Namada
+- 🌱 I’m currently learning Monad
 - 💞️ I’m looking to collaborate on cryptoprojects
 - 📫 How to reach me 
 
